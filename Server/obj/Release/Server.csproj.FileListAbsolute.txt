@@ -27,4 +27,3 @@ C:\Users\Artur\Desktop\FTPServer\Server\obj\Release\AdvancedFTPServer.frmUserAcc
 C:\Users\Artur\Desktop\FTPServer\Server\obj\Release\AdvancedFTPServer.frmViewService.resources
 C:\Users\Artur\Desktop\FTPServer\Server\obj\Release\AdvancedFTPServer.Properties.Resources.resources
 C:\Users\Artur\Desktop\FTPServer\Server\obj\Release\Server.csproj.GenerateResource.Cache
-C:\Users\Artur\Desktop\FTPServer\Server\obj\Release\Server.csprojResolveAssemblyReference.cache

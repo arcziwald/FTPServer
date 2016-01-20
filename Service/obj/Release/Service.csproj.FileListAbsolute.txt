@@ -7,4 +7,3 @@ C:\Users\Artur\Desktop\FTPServer\Build\FTPService.exe
 C:\Users\Artur\Desktop\FTPServer\Build\FTPService.pdb
 C:\Users\Artur\Desktop\FTPServer\Service\obj\Release\FTPService.exe
 C:\Users\Artur\Desktop\FTPServer\Service\obj\Release\FTPService.pdb
-C:\Users\Artur\Desktop\FTPServer\Service\obj\Release\Service.csprojResolveAssemblyReference.cache

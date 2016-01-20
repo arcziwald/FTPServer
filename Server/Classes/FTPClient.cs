@@ -25,6 +25,7 @@ namespace AdvancedFTPServer
             }
         }
         Socket ClientSocket;
+
         internal FTPUser ConnectedUser;
 
         internal string EndPoint

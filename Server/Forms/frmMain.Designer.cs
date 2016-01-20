@@ -64,14 +64,14 @@ namespace AdvancedFTPServer
             this.mnuExit});
             this.TrayContext.Name = "TrayContext";
             this.TrayContext.Size = new System.Drawing.Size(166, 154);
-            this.TrayContext.Text = "Advanced FTP Server";
+            this.TrayContext.Text = "FTP Server";
             this.TrayContext.Opened += new System.EventHandler(this.TrayContext_Opened);
             // 
             // mnuViewShow
             // 
             this.mnuViewShow.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.onlineUsersToolStripMenuItem,
-            this.errorLogsToolStripMenuItem});
+            this.onlineUsersToolStripMenuItem});
+            //this.errorLogsToolStripMenuItem});
             this.mnuViewShow.Name = "mnuViewShow";
             this.mnuViewShow.Size = new System.Drawing.Size(165, 22);
             this.mnuViewShow.Text = "View / Show";
